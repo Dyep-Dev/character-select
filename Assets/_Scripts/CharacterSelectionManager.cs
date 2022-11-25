@@ -75,4 +75,10 @@ public class Character
     public string Name;
     public Sprite SelectIcon;
     public Sprite PoseIcon;
+    
+    //Stats can be put here etc etc
+    // public int Health;
+    // public int Power;
+    // public int Agility;
+    // public int ComboDifficulty;
 }
